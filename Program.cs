@@ -10,7 +10,7 @@ namespace Adding_Numbers_Till_Zero
 
 			// Loop to do sum while
 			// sum is not less than
-			// or equal to 9
+			// or equal to 9 ---
 			while (n > 0 || sum > 9)
 			{
 				if (n == 0)
